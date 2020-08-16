@@ -1,0 +1,10 @@
+[package]
+name = "usize_conv"
+version = "1.0.0"
+authors = ["MinusGix <minusgix@gmail.com>"]
+repository = "https://github.com/MinusGix/usize-conv"
+edition = "2018"
+keywords = ["type-safety"]
+license = "MIT"
+
+[dependencies]
