@@ -1,4 +1,8 @@
 # usize-conv
+
+**You should just use https://crates.io/crates/usize_cast, this repo was made before I knew an established version already existed. **
+
+
 This small library came from a desire to have conversions to/from usize from various unsigned integer types that would not error.
 Normally you must do:
 ```rust
